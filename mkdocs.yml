@@ -2,3 +2,6 @@ site_name: Code Review
 theme: readthedocs
 plugins: 
   - search
+nav: 
+  - "index.md"
+  - "process.md"
